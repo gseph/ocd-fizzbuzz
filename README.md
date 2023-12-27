@@ -6,7 +6,7 @@ Overly-Complex Designed FizzBuzz (OCD FizzBuzz for short, pun intended) is a sma
 
 Everyone in the software developer community knows what FizzBuzz is. The FizzBuzz problem states something like the following.
 
-    "Given a positive non zero integer number n, print for each number k from 1 to n the string "Fizz" if k is an integer multiple of 3, the string "Buzz" if k is an integer multiple of 5 and the string "FizzBuzz" if k is an integer multple of both 3 and 5."
+> "Given a positive non zero integer number n, print for each number k from 1 to n the string "Fizz" if k is an integer multiple of 3, the string "Buzz" if k is an integer multiple of 5 and the string "FizzBuzz" if k is an integer multple of both 3 and 5."
 
 ## Overly-Complex Design
 
