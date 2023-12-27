@@ -52,7 +52,7 @@ To run this you are going to need
 
 Start Kafka, the frontend, the api.go process and the prodcons.go process.
 
-Once you have done it, go to the web ui, type "90" and press the "Click me" button, then play the theme song from "2001: A Space Odissey".
+Once you have done it, go to the web ui, type "90" and press the "Click me" button, then play the theme song from "2001: A Space Odyssey".
 
 Here's a demo up to 15. The bottom left terminal is running the [api.go](backend/cmd/api/api.go) program, while the bottom right terminal is running the [prodcons.go](backend/cmd/prodcons/prodcons.go).
 
